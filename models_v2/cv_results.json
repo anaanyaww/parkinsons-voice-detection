@@ -1,0 +1,14 @@
+{
+  "cv_accuracy_mean": 0.9282051282051281,
+  "cv_accuracy_std": 0.047000776358521436,
+  "cv_precision_mean": 0.9420953837597331,
+  "cv_recall_mean": 0.9659770114942529,
+  "cv_f1_mean": 0.953206982446391,
+  "test_accuracy": 0.9230769230769231,
+  "test_precision": 0.9333333333333333,
+  "test_recall": 0.9655172413793104,
+  "test_f1": 0.9491525423728814,
+  "test_rocauc": 0.9758620689655173,
+  "model_saved": "models_v2/parkinsons_pipeline_final_v2.pkl",
+  "timestamp": "2025-11-12T10:19:06.320112"
+}
